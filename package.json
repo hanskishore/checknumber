@@ -1,0 +1,16 @@
+{
+  "name": "is-square",
+  "description": "Returns true if the value is a square.",
+  "version": "1.0.0-alpha",
+  "homepage": "https://github.com/hanskishore/is-square",
+  "author": "Kishore Patil (https://github.com/hanskishore)",
+  "repository": "hanskishore/is-square",
+  "license": "MIT",
+  "files": [
+    "index.js"
+    ],
+   "main": "index.js",
+   "engines": {
+     "node": ">=0.10.0"
+    }
+}

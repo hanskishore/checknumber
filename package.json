@@ -1,5 +1,5 @@
 {
-  "name": "checknumber",
+  "name": "is-numb",
   "description": "Returns true if the value is a square/prime.",
   "version": "1.0.0-alpha",
   "homepage": "https://github.com/hanskishore/checknumber",

@@ -1,10 +1,10 @@
 {
-  "name": "is-square",
+  "name": "checknumber",
   "description": "Returns true if the value is a square/prime.",
   "version": "1.0.0-alpha",
-  "homepage": "https://github.com/hanskishore/issquare",
+  "homepage": "https://github.com/hanskishore/checknumber",
   "author": "Kishore Patil (https://github.com/hanskishore)",
-  "repository": "hanskishore/is-square",
+  "repository": "hanskishore/checknumber",
   "license": "MIT",
   "files": [
     "index.js"
